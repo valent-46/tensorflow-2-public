@@ -8,8 +8,6 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 1
 
-$$MSE=\frac{1}{n}\sum_{i=1}^{n}\left(Y_i-\widehat{Y_i}\right)^2$$
-
 ### Assignment 
 
 
